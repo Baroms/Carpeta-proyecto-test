@@ -1,0 +1,10 @@
+ Volume in drive C is Windows 10
+ Volume Serial Number is 0469-54F8
+
+ Directory of C:\Users\thela\OneDrive\Escritorio\Carpeta proyecto
+
+10/12/2020  06:16 PM    <DIR>          .
+10/12/2020  06:16 PM    <DIR>          ..
+10/12/2020  06:17 PM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  40,560,553,984 bytes free
